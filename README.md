@@ -194,6 +194,7 @@ Ah, e quase esqueci! Se ver o emoji de abacate (🥑), é por que estaremos pres
 - 14: [DevOpsDays Belo Horizonte 2024](https://devopsdays.org/events/2024-belo-horizonte/welcome/) - _Belo Horizonte/MG_ ![presencial]
 - 14: [BSidesJP 2024](https://www.bsidesjp.com.br/) - _João Pessoa/PB_ ![presencial]
 - 16, 17, 18 e 19: [XXIV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG 2024)](https://sbseg2024.ita.br/) - _São José dos Campos/SP_ ![presencial]
+- 18, 19 e 20 : [Encontro Regional do FORTEC Centro Oeste 2024](https://www.even3.com.br/fortec-centro-oeste/) - _Campo Grande/MS ![presencial]
 - 18, 19 e 20: [TDC São Paulo](https://thedevconf.com/tdc/2024/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 17 e 19: [Mind The Sec](https://mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
 - 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - _Fortaleza/CE_ ![presencial]
